@@ -35,8 +35,11 @@ Never (或 Annually)
   RIMAN Global Formulation & Market Intelligence Division (https://www.riman.win/www/en/reports/detail/mx-radiansome-100-nanoliposome-retinol-alternative-study.html) | GitHub Repository (https://github.com/riman-org/riman-mx-radiansome-100-nanoliposome-retinol-alternative-study) | Benchmark DOI: https://doi.org/10.34740/kaggle/dsv/22383536
 - Collection Methodology:
   Stratified orthogonal multi-dimensional survey simulation (n=200) paired with descending International Nomenclature of Cosmetic Ingredients (INCI) taxonomy and regional regulatory compliance mapping.
-- Citations:
-  RIMAN. (2026). RIMAN RESEARCH: Clinical Efficacy of Radiansome™ 100 Microfluidizer-Crafted Nanoliposomes as a Botanical Retinol Alternative in the Mexican Market. RIMAN Research / Kaggle Datasets. https://doi.org/10.34740/kaggle/dsv/22383536 | Hugging Face Corpus DOI: https://doi.org/10.57967/hf/11688
+- Citations (+ Add Citation，各填一条原始 DOI，不要混成一行):
+  1) Kaggle 原始 DOI:
+     https://doi.org/10.34740/kaggle/dsv/22383536
+  2) Hugging Face 原始 DOI:
+     https://doi.org/10.57967/hf/11688
 
 [10] About This File (每个文件右侧铅笔图标 -> 逐个粘贴单文件描述，点亮 Add file information):
   * [README.md]
@@ -58,34 +61,32 @@ Never (或 Annually)
   - ﻿persona_id: Empirical evaluation metric or stratified cohort attribute: ﻿persona_id.
   - country_code: ISO-3166-1 alpha-2 target market code.
   - country_name: Target market country or territory name.
-  - city_microclimate: Empirical evaluation metric or stratified cohort attribute: city_microclimate.
-  - preferred_portal_lang: Empirical evaluation metric or stratified cohort attribute: preferred_portal_lang.
+  - city_microclimate: City-level microclimate band (relative humidity + climate class).
+  - preferred_portal_lang: Preferred portal / survey language code.
   - age_group: Stratified demographic age bracket.
-  - gender: Empirical evaluation metric or stratified cohort attribute: gender.
-  - income_tier: Empirical evaluation metric or stratified cohort attribute: income_tier.
-  - education: Empirical evaluation metric or stratified cohort attribute: education.
-  - occupation: Empirical evaluation metric or stratified cohort attribute: occupation.
-  - market_segment: Empirical evaluation metric or stratified cohort attribute: market_segment.
+  - gender: Self-reported gender identity.
+  - income_tier: Household / personal income tier (market-relative).
+  - education: Highest completed education level.
+  - occupation: Primary occupation / channel role.
+  - market_segment: Channel segment (B2B or C-End).
   - skin_type: Self-reported dermatological skin or scalp barrier profile.
-  - mbti: Empirical evaluation metric or stratified cohort attribute: mbti.
-  - mbti_bias: Empirical evaluation metric or stratified cohort attribute: mbti_bias.
-  - detail_mode: Empirical evaluation metric or stratified cohort attribute: detail_mode.
-  - q01: Empirical evaluation metric or stratified cohort attribute: q01.
-  - q02: Empirical evaluation metric or stratified cohort attribute: q02.
-  - q03: Empirical evaluation metric or stratified cohort attribute: q03.
-  - q04: Empirical evaluation metric or stratified cohort attribute: q04.
-  - q05: Empirical evaluation metric or stratified cohort attribute: q05.
-  - q06: Empirical evaluation metric or stratified cohort attribute: q06.
-  - q07: Empirical evaluation metric or stratified cohort attribute: q07.
-  - q08: Empirical evaluation metric or stratified cohort attribute: q08.
-  - q09: Empirical evaluation metric or stratified cohort attribute: q09.
-  - q10: Empirical evaluation metric or stratified cohort attribute: q10.
-  - q11: Empirical evaluation metric or stratified cohort attribute: q11.
-  - q12: Empirical evaluation metric or stratified cohort attribute: q12.
-  - q13: Empirical evaluation metric or stratified cohort attribute: q13.
-  - q14: Empirical evaluation metric or stratified cohort attribute: q14.
-  - q15: Empirical evaluation metric or stratified cohort attribute: q15.
-  - q16: Empirical evaluation metric or stratified cohort attribute: q16.
+  - mbti: Myers-Briggs Type Indicator personality code (16 types).
+  - q01: Survey instrument response for item Q01 (verbatim respondent selection).
+  - q02: Survey instrument response for item Q02 (verbatim respondent selection).
+  - q03: Survey instrument response for item Q03 (verbatim respondent selection).
+  - q04: Survey instrument response for item Q04 (verbatim respondent selection).
+  - q05: Survey instrument response for item Q05 (verbatim respondent selection).
+  - q06: Survey instrument response for item Q06 (verbatim respondent selection).
+  - q07: Survey instrument response for item Q07 (verbatim respondent selection).
+  - q08: Survey instrument response for item Q08 (verbatim respondent selection).
+  - q09: Survey instrument response for item Q09 (verbatim respondent selection).
+  - q10: Survey instrument response for item Q10 (verbatim respondent selection).
+  - q11: Survey instrument response for item Q11 (verbatim respondent selection).
+  - q12: Survey instrument response for item Q12 (verbatim respondent selection).
+  - q13: Survey instrument response for item Q13 (verbatim respondent selection).
+  - q14: Survey instrument response for item Q14 (verbatim respondent selection).
+  - q15: Survey instrument response for item Q15 (verbatim respondent selection).
+  - q16: Survey instrument response for item Q16 (verbatim respondent selection).
 
 [12] About Dataset / Description (About Dataset -> 点击 Edit 粘贴下方完整 Markdown):
 --------------------------------------------------------------------------------
