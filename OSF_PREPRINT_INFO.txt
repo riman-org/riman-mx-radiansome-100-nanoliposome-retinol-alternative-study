@@ -1,0 +1,51 @@
+================================================================================
+OSF / CoP PREPRINTS 系统性填写清单（含 GitHub 全套源文件入口）
+对应仓库: riman-mx-radiansome-100-nanoliposome-retinol-alternative-study
+================================================================================
+
+[Step 1] Title and Abstract
+- Title:
+RIMAN RESEARCH: Clinical Efficacy of Radiansome™ 100 Microfluidizer-Crafted Nanoliposomes as a Botanical Retinol Alternative in the Mexican Market
+
+- Abstract (内嵌 GitHub 仓库入口、交互式报告及双基准 DOI):
+Background: The Mexican skincare market exhibits high sensitivity to traditional retinoids, driving demand for gentle, botanical-based anti-aging alternatives. This study evaluates Radiansome™ 100, a microfluidizer-crafted nanoliposome delivery system utilizing water- and oil-soluble actives within skin-identical phospholipid shells. Methods: A stratified survey of 200 consumers across Guadalajara, Monterrey, and Mexico City assessed texture, absorption, efficacy perception, and regulatory trust. Quantitative Results: The composite mean score was 3.68 (Top-2-Box 62.7%). Absorption speed received the highest rating (Mean 4.2, Top-2-Box 96.0%), validating its suitability for morning routines before sunscreen application. Confidence in anti-aging efficacy via liposomal delivery scored 4.18 (Top-2-Box 90.5%). However, trust in COFEPRIS regulatory adherence remained low (Mean 2.83, Top-2-Box 2.5%), indicating a significant communication gap. Strategic Implications: While 100% of respondents cited skin irritation as the primary driver for switching from retinol, barriers such as high price (96.0%) and brand recognition (84.0%) persist. The Net Promoter Score (NPS) of +8.5 suggests moderate advocacy potential, contingent upon addressing regulatory transparency and supply chain availability.
+
+Open-Science Repository (Full PDF, LaTeX, n=200 CSV Dataset & 6-Language README): https://github.com/riman-org/riman-mx-radiansome-100-nanoliposome-retinol-alternative-study
+Live Interactive Multilingual Preview: https://riman-org.github.io/riman-mx-radiansome-100-nanoliposome-retinol-alternative-study/
+Official 6-Language Interactive Report & Cross-Tab Charts: https://www.riman.win/www/en/reports/detail/mx-radiansome-100-nanoliposome-retinol-alternative-study.html
+Primary Benchmark Dataset DOI (Kaggle): https://doi.org/10.34740/kaggle/dsv/22383536 | Global Research Corpus DOI (Hugging Face): https://doi.org/10.57967/hf/11688
+
+--------------------------------------------------------------------------------
+[Step 2] File
+- 上传当前文件夹下的双栏学术论文 PDF:
+  mx-radiansome-100-nanoliposome-retinol-alternative-study_paper.pdf
+
+--------------------------------------------------------------------------------
+[Step 3] Metadata
+- License:
+  CC-By Attribution 4.0 International
+- Subjects (必填项 -> 搜索框输入 General 勾选):
+  General Subjects and Opinions
+- Tags (逐个输入回车):
+  riman, incellderm, botalab, active-cream-ex, descending-inci, mexico
+- Original publication date:
+  2026-11-19
+- Publication DOI:
+  (留空不填！提交后由 OSF 自动签发新预印本 DOI)
+
+--------------------------------------------------------------------------------
+[Step 4] Author Assertions -> Public Data (点选 Available，点击 "Add One More" 依次填入以下 4 条纯净 URL)
+- 链接 1 [GitHub 完整开源仓库 — 含 README / PDF / LaTeX / CSV / HTML]:
+  https://github.com/riman-org/riman-mx-radiansome-100-nanoliposome-retinol-alternative-study
+
+- 链接 2 [官网 6 语交互式报告与可视化图表详情页]:
+  https://www.riman.win/www/en/reports/detail/mx-radiansome-100-nanoliposome-retinol-alternative-study.html
+
+- 链接 3 [主基准数据集永久 DOI (Kaggle)]:
+  https://doi.org/10.34740/kaggle/dsv/22383536
+
+- 链接 4 [全语种语料库永久 DOI (Hugging Face)]:
+  https://doi.org/10.57967/hf/11688
+
+- Public Preregistration:
+  保持默认 Not Applicable

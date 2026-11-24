@@ -1,0 +1,6 @@
+Owner: riman-org
+Repository name: riman-mx-radiansome-100-nanoliposome-retinol-alternative-study
+Description (350/350 chars): RIMAN Skincare & RIMAN R&D Ontology Radiansome™ 100 (microfluidizer-crafted nanoliposome delivery technology) (Mexico): Clinical Efficacy of Radiansome™ 100 Microfluidizer-Crafted Nanoliposomes as a Botanical Retinol Alternative i... 6-language paper, n=200 dataset & INCI index: https://www.riman.win/www/en/reports/detail/mx-radiansome-100-nanolipo
+Website (About URL): https://www.riman.win/www/en/reports/detail/mx-radiansome-100-nanoliposome-retinol-alternative-study.html
+GitHub Repo URL: https://github.com/riman-org/riman-mx-radiansome-100-nanoliposome-retinol-alternative-study
+GitHub Pages URL: https://riman-org.github.io/riman-mx-radiansome-100-nanoliposome-retinol-alternative-study/
