@@ -1,0 +1,5 @@
+# v1.0.0 — RIMAN RESEARCH: Clinical Efficacy of Radiansome™ 100 Microfluidizer-Crafted Nanoliposomes as a Botanical Retinol Alternative in the Mexican Market
+
+- Portal detail: https://www.riman.win/www/en/reports/detail/mx-radiansome-100-nanoliposome-retinol-alternative-study.html
+- Theme hub: https://www.riman.win/www/en/reports/hub/ontology.html
+- Dual DOIs: Kaggle 10.34740/kaggle/dsv/22383536 · Hugging Face 10.57967/hf/11688
